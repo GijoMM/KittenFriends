@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KittenFriends/static/css/main.34de6062.chunk.css",
+    "main.js": "/KittenFriends/static/js/main.d5f62516.chunk.js",
+    "main.js.map": "/KittenFriends/static/js/main.d5f62516.chunk.js.map",
+    "runtime-main.js": "/KittenFriends/static/js/runtime-main.fc5b7515.js",
+    "runtime-main.js.map": "/KittenFriends/static/js/runtime-main.fc5b7515.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/KittenFriends/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.761caa3a.chunk.js": "/KittenFriends/static/js/2.761caa3a.chunk.js",
+    "static/js/2.761caa3a.chunk.js.map": "/KittenFriends/static/js/2.761caa3a.chunk.js.map",
+    "index.html": "/KittenFriends/index.html",
+    "precache-manifest.5b2574e2f4e71117fc16ae7b339c4755.js": "/KittenFriends/precache-manifest.5b2574e2f4e71117fc16ae7b339c4755.js",
+    "service-worker.js": "/KittenFriends/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/KittenFriends/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/KittenFriends/static/css/main.34de6062.chunk.css.map"
+  }
+}
